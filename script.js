@@ -1,6 +1,6 @@
 const config = {
-    "name_server": "Server Name",
-    "name_developer": "Eikarna",
+    "name_server": "Mcity",
+    "name_developer": "VitoCorleone",
     "url": {
         "vhost": "YOUR_MEDIAFIRE_URL",
         "ptunnel": "YOUR_PTUNNEL_URL"
